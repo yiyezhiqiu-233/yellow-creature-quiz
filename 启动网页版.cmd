@@ -10,4 +10,3 @@ echo Open http://localhost:4173 after the Preview message appears.
 echo Keep this window open while using the website.
 node server.mjs
 pause
-
