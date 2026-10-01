@@ -1,0 +1,5 @@
+node_modules/
+.data/
+.sites-runtime/
+dist/
+*.tar.gz
