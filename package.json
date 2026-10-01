@@ -1,0 +1,1 @@
+{"name":"yellow-creature-quiz","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"node build.mjs","test":"node --test tests/*.test.mjs","db:generate":"drizzle-kit generate"},"devDependencies":{"drizzle-kit":"^0.31.0","drizzle-orm":"^0.44.0"}}
